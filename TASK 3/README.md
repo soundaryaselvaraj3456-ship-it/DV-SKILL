@@ -1,4 +1,4 @@
-#TASK-3- AAPL Stock Price Analysis
+## TASK-3- AAPL Stock Price Analysis
 
 ## Project Overview
 
@@ -164,7 +164,7 @@ AAPL-Stock-Analysis/
 ├── AAPL.csv
 ├── aapl_analysis.py
 └── README.md
----
+
 ## Conclusion
 
 This project provides a basic foundation for analyzing AAPL stock price movements. By calculating the daily price delta and percentage return, the analysis helps identify whether the stock price increased or decreased from the opening price to the closing price on each trading day.
