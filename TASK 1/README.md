@@ -88,12 +88,10 @@ The program displays:
   - Number of testing rows
 
 ## Project Structure
-
-  Superstore-EDA/
+Superstore-EDA/
 │── SampleSuperstore.csv
 │── superstore_analysis.py
 │── README.md
-
 ## Sample Visualizations
 
    - Sales Distribution Histogram
