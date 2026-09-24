@@ -33,10 +33,73 @@ This project demonstrates **Data Understanding, Data Cleaning, and Exploratory D
 - Scikit-learn
 
 ---
+## Dataset
 
-## Installation
+Use the SampleSuperstore.csv dataset and place it in the project folder.
 
-Install the required Python libraries:
+Example columns:
 
-```bash
-pip install pandas numpy matplotlib seaborn scipy scikit-learn
+  -  Order ID
+  - Order Date
+  - Category
+  - Sub-Category
+  - State
+  - Region
+  - Sales
+  - Quantity
+  - Discount
+  - Profit
+
+Project Workflow
+
+ 1.   Load the dataset.
+
+ 2.    Display the first five records.
+
+ 3.   Check dataset information and data types.
+
+ 4.   Identify missing values.
+
+ 5.   Remove duplicate and missing records.
+
+ 6.   Calculate average sales and summary statistics.
+
+  7.    Create visualizations:
+       - Histogram of Sales
+       - Bar Chart of Sales by Category
+       - Scatter Plot of Sales vs Profit
+
+  8.  Split the dataset into training and testing sets.
+---
+## Expected Output
+
+The program displays:
+
+  -  Dataset preview
+  - Dataset information
+  - Missing value count
+  - Duplicate record count
+  - Average sales
+  - Mean sales
+  - Sales Distribution Histogram
+  - Sales by Category Bar Chart
+  - Sales vs Profit Scatter Plot
+  - Number of training rows
+  - Number of testing rows
+
+## Project Structure
+
+  Superstore-EDA/
+│── SampleSuperstore.csv
+│── superstore_analysis.py
+│── README.md
+
+## Sample Visualizations
+
+   - Sales Distribution Histogram
+   - Sales by Category Bar Chart
+   - Sales vs Profit Scatter Plot
+
+## Conclusion
+
+This project provides a simple and effective workflow for understanding, cleaning, and analyzing retail sales data. The generated statistics and visualizations help identify business trends and prepare the dataset for further machine learning or business intelligence tasks.
