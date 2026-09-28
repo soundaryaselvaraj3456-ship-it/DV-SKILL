@@ -63,11 +63,10 @@ df = pd.read_csv("Healthcare.csv")
 
 <!-- Add your output screenshots below, e.g. ![Output 1](images/output1.png) -->
 
-![Output 1](images/output1.png)
-![Output 2](images/output2.png)
-![Output 3](images/output3.png)
-![Output 4](images/output4.png)
-![Output 5](images/output5.png)
+<img width="897" height="525" alt="image" src="https://github.com/user-attachments/assets/c8eedfd2-35ec-41ca-bae6-a7cb1f654146" />
+<img width="543" height="433" alt="image" src="https://github.com/user-attachments/assets/6ad8dc83-8c17-4a88-a934-697c4ceda373" />
+<img width="857" height="665" alt="image" src="https://github.com/user-attachments/assets/b6402e2c-c833-4b94-b431-243aabc1a7f8" />
+
 
 ### View Column Names
 
