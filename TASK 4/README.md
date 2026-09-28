@@ -160,7 +160,8 @@ The project can be extended by adding:
   -  Volatility analysis
   -  Stock price forecasting
 OUTPUT
-<img width="571" height="455" alt="image" src="https://github.com/user-attachments/assets/bf9423b0-f965-4667-9a28-ec241ca7709b" />
+<img width="1005" height="584" alt="image" src="https://github.com/user-attachments/assets/16cf5988-829d-4ec4-a275-c1d09ded80be" />
+
 
 ## Conclusion
 
