@@ -21,85 +21,85 @@ This project analyzes student performance data to understand how factors such as
   * Lunch Type
   * Test Preparation Course
 
-# * Objectives
+#  Objectives
 
-# * Compare average student scores across different parental education levels and lunch types.
+ Compare average student scores across different parental education levels and lunch types.
 
-# * Analyze score variation between students who completed test preparation and those who did not.
+ Analyze score variation between students who completed test preparation and those who did not.
 
-# * Identify relationships between mathematics, reading, and writing scores.
+ Identify relationships between mathematics, reading, and writing scores.
 
-# * Calculate correlations between different subject scores.
+ Calculate correlations between different subject scores.
 
-# * Identify educational inequalities and performance gaps.
+ Identify educational inequalities and performance gaps.
 
-# * Provide data-driven educational equity and policy recommendations.
+ Provide data-driven educational equity and policy recommendations.
 
-# * Technologies Used
+ Technologies Used
 
-* Python
-* Pandas
-* Matplotlib
-* Seaborn
-* Jupyter Notebook / Google Colab
+- Python
+- Pandas
+- Matplotlib
+- Seaborn
+- Jupyter Notebook / Google Colab
 
-# * Data Analysis
+#  Data Analysis
 
-# * Grouped Bar Chart
+**Grouped Bar Chart**
 
 A grouped bar chart was created to compare average Math, Reading, and Writing scores across different parental education levels and lunch types.
 
 ### Key Outcome
 
-# * Students with different parental education backgrounds show differences in average academic performance.
+Students with different parental education backgrounds show differences in average academic performance.
 
-# * Students receiving standard lunch generally have higher average scores than students receiving free/reduced lunch.
+Students receiving standard lunch generally have higher average scores than students receiving free/reduced lunch.
 
-# * The visualization helps identify potential socioeconomic performance gaps.
+The visualization helps identify potential socioeconomic performance gaps.
 
-# * Test Preparation Analysis
+Test Preparation Analysis
 
 Box plots were created to compare score distributions between students who completed the test preparation course and students who did not.
 
 ### Key Outcome
 
-# * Students who completed the test preparation course generally achieved higher scores.
+Students who completed the test preparation course generally achieved higher scores.
 
-# * Test preparation is associated with improved academic performance.
+Test preparation is associated with improved academic performance.
 
-# * The box plots also show the spread and variation of scores within each group.
+The box plots also show the spread and variation of scores within each group.
 
-# * Scatter Plot Analysis
+#  Scatter Plot Analysis
 
 Scatter plots were created for the following subject combinations:
 
-* Math vs Reading
-* Math vs Writing
-* Reading vs Writing
+- Math vs Reading
+- Math vs Writing
+- Reading vs Writing
 
 ### Key Outcome
 
-# * Math and Reading scores show a strong positive relationship.
+ Math and Reading scores show a strong positive relationship.
 
-# * Math and Writing scores also show a strong positive relationship.
+Math and Writing scores also show a strong positive relationship.
 
-# * Reading and Writing scores show the strongest positive relationship.
+Reading and Writing scores show the strongest positive relationship.
 
-# * Students who perform well in one subject generally tend to perform well in the other subjects.
+Students who perform well in one subject generally tend to perform well in the other subjects.
 
-# * Correlation Heatmap
+Correlation Heatmap
 
 A correlation heatmap was created to measure the relationship between Math, Reading, and Writing scores.
 
 ### Key Findings
 
-# * Math and Reading have a strong positive correlation.
+Math and Reading have a strong positive correlation.
 
-# * Math and Writing have a strong positive correlation.
+Math and Writing have a strong positive correlation.
 
-# * Reading and Writing have the strongest correlation among the three subjects.
+Reading and Writing have the strongest correlation among the three subjects.
 
-# * The heatmap provides an easy visual representation of the strength of relationships between subjects.
+The heatmap provides an easy visual representation of the strength of relationships between subjects.
 
 # * Educational Equity Analysis
 
